@@ -1,10 +1,10 @@
 <p align="center">
-   <img src=".github/postgres-exports.png" width="200"/>
+   <img src=".github/postgres-imports.png" width="200"/>
 </p>
 
 # Postgres-exports
 
-> Export in a simple way your .csv data to a postgres database
+> Import in a simple way your .csv data to a postgres database
 
 # :pushpin: Table of Contents
 
@@ -27,7 +27,7 @@
 ## :runner: Getting Started
 
 Before you run this program, you should have a .csv file.
-First copy your .csv file and paste inside the [export](https://github.com/cunhaedu/postgres-exports/tree/master/export) folder, then rename your file to 'data.csv'
+First copy your .csv file and paste inside the [import](https://github.com/cunhaedu/postgres-imports/tree/master/import) folder, then rename your file to 'data.csv'
 
 Run the following command in order to start the application:
 
@@ -44,6 +44,6 @@ Run the following command in order to start the application:
 ## :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/cunhaedu/postgres-exports/tree/master/LICENSE).
+This project is under the [MIT license](https://github.com/cunhaedu/postgres-imports/tree/master/LICENSE).
 
 Made by [Eduardo Assunção](https://github.com/cunhaedu)
