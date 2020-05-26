@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=".github/postgres-imports.png" width="200"/>
+   <img src=".github/postgres-imports.svg"/>
 </p>
 
 # Postgres-exports
