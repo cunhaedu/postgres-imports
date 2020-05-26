@@ -2,7 +2,7 @@
    <img src=".github/postgres-imports.svg"/>
 </p>
 
-# Postgres-exports
+# Postgres-imports
 
 > Import in a simple way your .csv data to a postgres database
 
